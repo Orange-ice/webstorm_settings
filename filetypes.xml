@@ -1,0 +1,12 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern=".dockerignore" type="GitIgnore file" />
+      <mapping pattern="header" type="PLAIN_TEXT" />
+      <mapping pattern="index,html" type="PLAIN_TEXT" />
+      <mapping pattern=".env.local" type="SQL" />
+      <mapping pattern="layout" type="Vue.js" />
+      <removed_mapping pattern=".env.local" approved="true" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>

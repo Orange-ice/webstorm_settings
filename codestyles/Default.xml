@@ -1,0 +1,49 @@
+<code_scheme name="Default" version="173">
+  <CssCodeStyleSettings>
+    <option name="BLANK_LINES_BETWEEN_BLOCKS" value="0" />
+    <option name="KEEP_SINGLE_LINE_BLOCKS" value="true" />
+  </CssCodeStyleSettings>
+  <ScssCodeStyleSettings>
+    <option name="BLANK_LINES_AROUND_NESTED_SELECTOR" value="0" />
+    <option name="KEEP_SINGLE_LINE_BLOCKS" value="true" />
+  </ScssCodeStyleSettings>
+  <TypeScriptCodeStyleSettings version="0">
+    <option name="FORCE_SEMICOLON_STYLE" value="true" />
+    <option name="USE_DOUBLE_QUOTES" value="false" />
+    <option name="FORCE_QUOTE_STYlE" value="true" />
+  </TypeScriptCodeStyleSettings>
+  <codeStyleSettings language="CSS">
+    <indentOptions>
+      <option name="KEEP_INDENTS_ON_EMPTY_LINES" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="HTML">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="JavaScript">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="SCSS">
+    <indentOptions>
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="TypeScript">
+    <option name="KEEP_SIMPLE_BLOCKS_IN_ONE_LINE" value="true" />
+    <option name="KEEP_SIMPLE_METHODS_IN_ONE_LINE" value="true" />
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
+</code_scheme>

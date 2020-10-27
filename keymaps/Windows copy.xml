@@ -1,0 +1,25 @@
+<keymap version="1" name="Windows copy" parent="$default">
+  <action id="ActivateFavoritesToolWindow" />
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt f12" />
+    <keyboard-shortcut first-keystroke="alt 2" />
+  </action>
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl f4" />
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
+  <action id="EditorSelectWord">
+    <keyboard-shortcut first-keystroke="alt w" />
+  </action>
+  <action id="EditorUnSelectWord">
+    <keyboard-shortcut first-keystroke="shift ctrl w" />
+    <keyboard-shortcut first-keystroke="shift alt w" />
+  </action>
+  <action id="FileChooser.TogglePathShowing" />
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="shift ctrl n" />
+    <keyboard-shortcut first-keystroke="ctrl p" />
+  </action>
+  <action id="ParameterInfo" />
+  <action id="tasks.close" />
+</keymap>

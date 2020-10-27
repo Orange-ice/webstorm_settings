@@ -1,0 +1,16 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="ProjectViewState">
+        <option name="hideEmptyMiddlePackages" value="true" />
+        <option name="showLibraryContents" value="true" />
+      </component>
+      <component name="PropertiesComponent">
+        <property name="settings.editor.selected.configurable" value="terminal" />
+      </component>
+      <component name="TerminalProjectNonSharedOptionsProvider">
+        <option name="shellPath" value="D:\sofeware\cmder\vendor\git-for-windows\bin\bash.exe" />
+      </component>
+    </defaultProject>
+  </component>
+</application>
