@@ -1,5 +1,5 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern=".dockerignore" type="GitIgnore file" />
       <mapping ext="tpl" type="HTML" />
@@ -8,6 +8,7 @@
       <mapping pattern="index,html" type="PLAIN_TEXT" />
       <mapping pattern=".env.local" type="SQL" />
       <mapping pattern="layout" type="Vue.js" />
+      <removed_mapping ext="wxml" approved="true" type="HTML" />
       <removed_mapping pattern=".env.local" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
