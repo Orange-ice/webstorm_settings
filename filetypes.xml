@@ -4,8 +4,8 @@
       <mapping pattern=".dockerignore" type="GitIgnore file" />
       <mapping ext="tpl" type="HTML" />
       <mapping pattern=".sequelizerc" type="JavaScript" />
-      <mapping pattern="header" type="PLAIN_TEXT" />
       <mapping pattern="index,html" type="PLAIN_TEXT" />
+      <mapping pattern="header" type="PLAIN_TEXT" />
       <mapping pattern=".env.local" type="SQL" />
       <mapping pattern="layout" type="Vue.js" />
       <removed_mapping ext="vue" approved="true" type="PLAIN_TEXT" />
