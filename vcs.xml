@@ -6,6 +6,10 @@
           <option name="url" value="http://git2.wh2.work" />
           <option name="userName" value="Burt" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.paraview.cn" />
+          <option name="userName" value="huangb001" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
